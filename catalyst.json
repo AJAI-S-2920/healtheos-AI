@@ -1,0 +1,6 @@
+{
+  "client": {
+    "name": "healthos-ai",
+    "source": "dist"
+  }
+}
